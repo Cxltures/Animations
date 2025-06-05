@@ -1,0 +1,14 @@
+local AnimationConfig = {
+    climb = { ClimbAnim = "rbxassetid://10921343576" },
+    fall = { FallAnim = "rbxassetid://18537367238" },
+    idle = {
+        Animation1 = "rbxassetid://133806214992291",
+        Animation2 = "rbxassetid://94970088341563",
+    },
+    pose = { StylishPose = "rbxassetid://87105332133518" },
+    jump = { JumpAnim = "rbxassetid://18537367238" },
+    run = { RunAnim = "rbxassetid://10921261968" },
+    swim = { Swim = "rbxassetid://10921352344" },
+    swimidle = { SwimIdle = "rbxassetid://10921353442" },
+    walk = { WalkAnim = "rbxassetid://10921355261" },
+}
