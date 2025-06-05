@@ -1,3 +1,4 @@
+--// CONFIGURABLES (leave this unobfuscated)
 local AnimationConfig = {
     climb = { ClimbAnim = "rbxassetid://10921343576" },
     fall = { FallAnim = "rbxassetid://18537367238" },
